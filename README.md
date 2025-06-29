@@ -1,3 +1,11 @@
+# Project Descriptions
+
+## English:
+**Coverage Analysis Automation Tool** - Python script that automates code coverage testing workflow. Runs pytest with coverage, generates comprehensive reports in TXT, Markdown, and HTML formats with timestamps. Perfect for CI/CD integration and development monitoring.
+
+## Russian:
+**Инструмент автоматизации анализа покрытия кода** - Python скрипт для автоматизации тестирования покрытия. Запускает pytest с coverage, создает подробные отчеты в форматах TXT, Markdown и HTML с временными метками. Идеален для CI/CD и мониторинга разработки.
+
 # Coverage Analysis Automation Tool
 
 **Инструмент автоматизации анализа покрытия кода** - Python скрипт для автоматизации тестирования покрытия кода с генерацией подробных отчетов в различных форматах.
